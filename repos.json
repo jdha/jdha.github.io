@@ -1,0 +1,22 @@
+{
+  "repos": {
+    "WEDDELL": ["NEMO Configurations"],
+    "PyNEMO": ["NEMO Tools"]
+  },
+  "custom": [
+    {
+      "name": "Caribbean",
+      "homepage": "https://github.com/NOC-MSM/Caribbean",
+      "html_url": "https://github.com/NOC-MSM/Caribbean",
+      "description": "NEMO regional configuration of the Caribbean",
+      "categories": ["NEMO Configurations"]
+    },
+    {
+      "name": "SEAsia",
+      "homepage": "https://github.com/NOC-MSM/SEAsia",
+      "html_url": "https://github.com/NOC-MSM/SEAsia",
+      "description": "NEMO regional configuration of SE Asia",
+      "categories": ["NEMO Configurations"]
+    }
+  ]
+}
