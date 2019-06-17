@@ -1,3 +1,8 @@
+Portal to JDHA GitHub Repositories
+==================================
+
+The theme of the web page is based on that from the [Square Open Source Portal]((https://travis-ci.org/square/square.github.io))
+
 Square Open Source Portal
 =========================
 
